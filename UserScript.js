@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Clean new tab
+// @name         clean new tab [Chrome Only]
 // @namespace    CleanNewTab
 // @version      0.1
 // @description  Remove the most visited list, when you create a new tab in Chrome.
