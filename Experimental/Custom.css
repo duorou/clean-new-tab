@@ -1,0 +1,13 @@
+/*
+  Remove the most visited list, when you create a new tab in Chrome
+*/
+@document regexp("https://www.google.com/_/chrome/newtab*")
+{
+  body {
+    min-height: 400px !important;
+  }
+
+  #most-visited {
+    display: none !important;
+  }
+}
