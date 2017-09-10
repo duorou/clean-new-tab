@@ -4,6 +4,6 @@
 
 
 ``` bash
-# Mac OS 目录
+# macOS 目录
 /Users/YourUser/Library/Application Support/Google/Chrome/Default/User StyleSheets/Custom.css
 ```

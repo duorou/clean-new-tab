@@ -7,4 +7,6 @@
 
 ## Install
 
-[Greasy Fork](https://greasyfork.org/scripts/30599-clean-new-tab)
+- [Chrome](https://chrome.google.com/webstore/detail/clean-new-tab/noonikfhoaflihajhdbpiidfifaadkgj)
+
+- ~~[UserScript](https://greasyfork.org/scripts/30599-clean-new-tab)~~

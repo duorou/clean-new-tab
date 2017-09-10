@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "clean new tab",
+  "description": "Remove the most visited list, when you create a new tab in Chrome.",
+  "version": "0.1",
+  "content_scripts": [{
+    "run_at": "document_end",
+    "css": ["style.css"],
+    "matches": [
+      "https://*/_/chrome/newtab*",
+      "*://local-ntp/local-ntp.html"
+    ]
+  }]
+}
