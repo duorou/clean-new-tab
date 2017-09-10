@@ -9,4 +9,4 @@
 
 - [Chrome](https://chrome.google.com/webstore/detail/clean-new-tab/noonikfhoaflihajhdbpiidfifaadkgj)
 
-- ~~[UserScript](https://greasyfork.org/scripts/30599-clean-new-tab)~~
+- ~~[UserScript](https://greasyfork.org/scripts/30599-clean-new-tab) (Chrome version <= 60)~~
